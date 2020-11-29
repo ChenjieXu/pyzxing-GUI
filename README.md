@@ -1,8 +1,5 @@
 # pyzxing-GUI
 
-[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/chenjiexu/pyzxing?include_prereleases)](https://github.com/ChenjieXu/pyzxing-GUI/releases/latest)
-
-
 A GUI of [pyzxing](https://github.com/ChenjieXu/pyzxing). 
 
 ![](src/pyxing-GUI.gif)
@@ -11,12 +8,8 @@ A GUI of [pyzxing](https://github.com/ChenjieXu/pyzxing).
 
 - Drag and drop to decode
 
-## Download
-
-Windows:
-
-## Custom Compile
+## Quick Start
 
 ```bash
-pyinstaller -F pyzxing-GUI.py -w
+python3 pyzxing-GUI.py
 ```
