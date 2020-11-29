@@ -1,0 +1,4 @@
+numpy==1.19.3
+PyQt5==5.13.0
+pyqt5-tools==5.13.0.1.5
+pyzxing==0.3.3
